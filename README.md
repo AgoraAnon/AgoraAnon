@@ -1,9 +1,5 @@
 # AgoraAnon
 
-> **Empowering Freedom Through Privacy.**
-
----
-
 ## 🌐 Get in Touch
 
 * **X/Twitter:** [@AgoraAnon](https://x.com/AgoraAnon)
