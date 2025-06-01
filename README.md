@@ -31,9 +31,5 @@ Your contributions keep AgoraAnon running. Thank you for supporting privacy, fre
 | **Polygon (MATIC)**     | 0xfF3E0Ada80642E31bEE733697F0C969b709Fcff8                                                        |
 | **Ethereum (ETH)**      | 0xfF3E0Ada80642E31bEE733697F0C969b709Fcff8                                                        |
 | **BNB (BSC)**           | 0xfF3E0Ada80642E31bEE733697F0C969b709Fcff8                                                        |
-
----
-
-### 🔒 Stay Free. Stay Private. Stay AgoraAnon.
-
+| **ARRR**                | zs14f0zrrutnyjyqu0rxjyktggfhsc548g7884399qvjw39t7mpzmxa3e7hgu8cp5y73ggp6n3rmlr                    |
 ---
