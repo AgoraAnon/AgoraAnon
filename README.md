@@ -9,7 +9,7 @@
 
 ## 💸 Support Our Mission
 
-Your contributions keep AgoraAnon running. Thank you for supporting privacy, freedom, and innovation.
+Your contributions keep AgoraAnon running. Thank you for supporting.
 
 ### Cryptocurrency Donations
 
@@ -32,4 +32,3 @@ Your contributions keep AgoraAnon running. Thank you for supporting privacy, fre
 | **Ethereum (ETH)**      | 0xfF3E0Ada80642E31bEE733697F0C969b709Fcff8                                                        |
 | **BNB (BSC)**           | 0xfF3E0Ada80642E31bEE733697F0C969b709Fcff8                                                        |
 | **ARRR**                | zs14f0zrrutnyjyqu0rxjyktggfhsc548g7884399qvjw39t7mpzmxa3e7hgu8cp5y73ggp6n3rmlr                    |
----
