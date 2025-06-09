@@ -16,7 +16,7 @@ Your contributions keep AgoraAnon running. Thank you for supporting.
 | ----------------------- | ------------------------------------------------------------------------------------------------- |
 | **DERO**                | dero1qycruwxqjh2xn8vh7jk5qwfsp48g0ljsuk6fpxjx4g5uy3vqzh8gcqq7qxaz3                                |
 | **Monero (XMR)**        | 8B4NL3JeyfaReq361J3ehXDeE1QoRVGpNTDqH9R2boBB3ro5rtie7UCaTLyUnBTyusQRXtksijAb9XhGvhzWW8k5DtMM4ND   |
-| **Wownero (WOW)**       | WW3yrNvVNNM9owVbv6BYxw3NTUqR2FBxxbJjwsv9tN1627ZiB3rUa6LSEq7JVLDEhpGGDS7YZkqJRiBNzeRZVSXC1H6otJZ9o |
+| **Wownero (WOW)**       | Wo4MsNXsFGfghYagQDjQvZdvewiP5e77sPgnNkH4mguyc1ycVMYGnCaeU68rWxh7TiGZZ13D6nAEFNqZKzddhMLf1wgyJGagc |
 | **Bitcoin (BTC)**       | 16qN7MY1zcRfNwHfErUDUAo1Awas7kKyJf                                                                |
 | **BTC (SegWit)**        | bc1q8llrw6trx3ta89cpytpff79lkknsu4gaagu256                                                        |
 | **BTC (BEP20)**         | 0xfF3E0Ada80642E31bEE733697F0C969b709Fcff8                                                        |
