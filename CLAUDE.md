@@ -2,13 +2,14 @@
 
 ## Project Overview
 
-AgoraAnon is a documentation-only repository. There is no source code, build system, or dependencies — the entire project is a single `README.md` file.
+AgoraAnon is a donation landing page — a single place the owner can link people to when seeking support for their projects or causes. There is no source code, build system, or dependencies; the entire project is a single `README.md` file.
 
 ## Repository Purpose
 
-- Public-facing community hub and donation aggregator
+- A shareable donation page that consolidates all cryptocurrency addresses in one place
+- The owner directs supporters here so they can choose their preferred coin to donate
 - Social contact: X/Twitter [@AgoraAnon](https://x.com/AgoraAnon)
-- Accepts cryptocurrency donations across 16+ addresses spanning privacy coins and mainstream chains
+- Accepts donations across 16+ addresses spanning privacy coins (XMR, DERO, WOW, ARRR, FIRO) and mainstream chains (BTC, ETH, LTC, BCH, BNB, MATIC, KMD)
 
 ## Working in This Repo
 
