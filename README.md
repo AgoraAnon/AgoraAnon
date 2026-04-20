@@ -12,22 +12,22 @@ Your contributions keep AgoraAnon running. Thank you for supporting.
 
 ### Cryptocurrency Donations
 
-| **Coin**                | **Address**                                                                                       |
-| ----------------------- | ------------------------------------------------------------------------------------------------- |
-| **DERO**                | dero1qycruwxqjh2xn8vh7jk5qwfsp48g0ljsuk6fpxjx4g5uy3vqzh8gcqq7qxaz3                                |
-| **Monero (XMR)**        | 8B4NL3JeyfaReq361J3ehXDeE1QoRVGpNTDqH9R2boBB3ro5rtie7UCaTLyUnBTyusQRXtksijAb9XhGvhzWW8k5DtMM4ND   |
-| **Wownero (WOW)**       | WW4E7gJWDJGUgv9tbY9cWj2JDXciH5dEuLGf35ieDGh85ECQWqTWwyC3ehGetew2xWeNyBt12C5A5ALGAkUs1aFE2um5AwFnk |
-| **Bitcoin (BTC)**       | 16qN7MY1zcRfNwHfErUDUAo1Awas7kKyJf                                                                |
-| **BTC (SegWit)**        | bc1q8llrw6trx3ta89cpytpff79lkknsu4gaagu256                                                        |
-| **BTC (BEP20)**         | 0xfF3E0Ada80642E31bEE733697F0C969b709Fcff8                                                        |
-| **Litecoin (LTC)**      | LR4KNZqr5GfidjypQzTWkBrmP9x9Cs2hVR                                                                |
-| **LTC (SegWit)**        | ltc1q8llrw6trx3ta89cpytpff79lkknsu4gae5xwv2                                                       |
-| **Komodo (KMD)**        | RF7ZBsRJbSEESweri2TLZh8CwD3TjD1c8Q                                                                |
-| **Pirate Chain (vARRR)**| RF7ZBsRJbSEESweri2TLZh8CwD3TjD1c8Q                                                                |
-| **Firo (FIRO)**         | a6YprFyeDQRWSUimFFnMET7WnJiDNSUhvr                                                                |
-| **Bitcoin Cash (BCH)**  | bitcoincash\:qqlludmfvv6905uhqy3v998ch766wrj4r5jc68twd7                                           |
-| **BCH (BEP20)**         | 0xfF3E0Ada80642E31bEE733697F0C969b709Fcff8                                                        |
-| **Polygon (MATIC)**     | 0xfF3E0Ada80642E31bEE733697F0C969b709Fcff8                                                        |
-| **Ethereum (ETH)**      | 0xfF3E0Ada80642E31bEE733697F0C969b709Fcff8                                                        |
-| **BNB (BSC)**           | 0xfF3E0Ada80642E31bEE733697F0C969b709Fcff8                                                        |
-| **ARRR**                | zs14f0zrrutnyjyqu0rxjyktggfhsc548g7884399qvjw39t7mpzmxa3e7hgu8cp5y73ggp6n3rmlr                    |
+| **Coin**                | **Address**          |
+| ----------------------- | -------------------- |
+| **DERO**                | `YOUR_ADDRESS_HERE`  |
+| **Monero (XMR)**        | `YOUR_ADDRESS_HERE`  |
+| **Wownero (WOW)**       | `YOUR_ADDRESS_HERE`  |
+| **Bitcoin (BTC)**       | `YOUR_ADDRESS_HERE`  |
+| **BTC (SegWit)**        | `YOUR_ADDRESS_HERE`  |
+| **BTC (BEP20)**         | `YOUR_ADDRESS_HERE`  |
+| **Litecoin (LTC)**      | `YOUR_ADDRESS_HERE`  |
+| **LTC (SegWit)**        | `YOUR_ADDRESS_HERE`  |
+| **Komodo (KMD)**        | `YOUR_ADDRESS_HERE`  |
+| **Pirate Chain (vARRR)**| `YOUR_ADDRESS_HERE`  |
+| **Firo (FIRO)**         | `YOUR_ADDRESS_HERE`  |
+| **Bitcoin Cash (BCH)**  | `YOUR_ADDRESS_HERE`  |
+| **BCH (BEP20)**         | `YOUR_ADDRESS_HERE`  |
+| **Polygon (MATIC)**     | `YOUR_ADDRESS_HERE`  |
+| **Ethereum (ETH)**      | `YOUR_ADDRESS_HERE`  |
+| **BNB (BSC)**           | `YOUR_ADDRESS_HERE`  |
+| **ARRR**                | `YOUR_ADDRESS_HERE`  |
