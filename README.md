@@ -10,6 +10,12 @@
 
 Your contributions keep AgoraAnon running. Thank you for supporting.
 
+### Other Payment Methods
+
+| **Method** | **Link**                                               |
+| ---------- | ------------------------------------------------------ |
+| **PayPal** | [paypal.me/jopaulneedham](https://paypal.me/jopaulneedham) |
+
 ### Cryptocurrency Donations
 
 | **Coin**                | **Address**          |
