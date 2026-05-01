@@ -15,6 +15,7 @@ Your contributions keep AgoraAnon running. Thank you for supporting.
 | **Method** | **Link**                                               |
 | ---------- | ------------------------------------------------------ |
 | **PayPal** | [paypal.me/jopaulneedham](https://paypal.me/jopaulneedham) |
+| **Patreon** | [patreon.com/cw/AgoraAnon](https://www.patreon.com/cw/AgoraAnon) |
 
 ### Cryptocurrency Donations
 
