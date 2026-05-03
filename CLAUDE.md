@@ -1,5 +1,11 @@
 # AgoraAnon - Claude Code Context
 
+## Shared AI Coordination
+
+Read `/home/agoraanon/xuserbin/AINOTES.md` before using this file. `AINOTES.md` is the host-level source of truth and handoff surface for Claude Code and ChatGPT Codex.
+
+If this file conflicts with `AINOTES.md` about the current host, workspace, shell, or shared workflow, follow `AINOTES.md`. After meaningful work, update `AINOTES.md` if there is durable system/project context or a handoff for the other AI.
+
 ## Project Overview
 
 AgoraAnon is a donation landing page — a single place the owner can link people to when seeking support for their projects or causes. There is no source code, build system, or dependencies; the entire project is a single `README.md` file.
