@@ -1,0 +1,15 @@
+# Claude Code harness project directory (local-only)
+.claude/
+
+# Local / editor noise
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# Environment / secrets — never commit
+.env
+.env.*
+*.pem
+*.key
