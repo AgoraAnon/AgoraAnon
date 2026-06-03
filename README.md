@@ -21,20 +21,14 @@ Your contributions keep AgoraAnon running. Thank you for supporting.
 
 | **Coin**                | **Address**          |
 | ----------------------- | -------------------- |
-| **DERO**                | `YOUR_ADDRESS_HERE`  |
-| **Monero (XMR)**        | `YOUR_ADDRESS_HERE`  |
-| **Wownero (WOW)**       | `YOUR_ADDRESS_HERE`  |
-| **Bitcoin (BTC)**       | `YOUR_ADDRESS_HERE`  |
-| **BTC (SegWit)**        | `YOUR_ADDRESS_HERE`  |
-| **BTC (BEP20)**         | `YOUR_ADDRESS_HERE`  |
-| **Litecoin (LTC)**      | `YOUR_ADDRESS_HERE`  |
-| **LTC (SegWit)**        | `YOUR_ADDRESS_HERE`  |
-| **Komodo (KMD)**        | `YOUR_ADDRESS_HERE`  |
-| **Pirate Chain (vARRR)**| `YOUR_ADDRESS_HERE`  |
-| **Firo (FIRO)**         | `YOUR_ADDRESS_HERE`  |
-| **Bitcoin Cash (BCH)**  | `YOUR_ADDRESS_HERE`  |
-| **BCH (BEP20)**         | `YOUR_ADDRESS_HERE`  |
-| **Polygon (MATIC)**     | `YOUR_ADDRESS_HERE`  |
-| **Ethereum (ETH)**      | `YOUR_ADDRESS_HERE`  |
-| **BNB (BSC)**           | `YOUR_ADDRESS_HERE`  |
-| **ARRR**                | `YOUR_ADDRESS_HERE`  |
+| **Monero (XMR)**        | `46wU5nGh2A9Ns8CNvRgVXJ6GgMdffA5nbAbu67qTuD4WKZguVqzrmSZKK3BwjATDbpSHykW1BWTphUzWxvCcx7gM2Jn7TSb`  |
+| **Wownero (WOW)**       | `Wo3P9utWR7WjUE2d4LrmaW8so7eSohPwzQdFTX1qPF1SFAvAwkWpYGPFzMSqc522DcUt6tms3BD6rgaoaoNdTdeo1WLYqLvDr`  |
+| **Bitcoin (BTC)**       | `bc1qwlv5jj7waperx75zqye9dl8thecgklawndnwzl`  |
+| **BTC (BEP20)**         | `0x4B86F649163E2BfCf08bF010bc5D7B8e622bE5EF`  |
+| **Litecoin (LTC)**      | `ltc1qjlcwfufaq4ppyj865d0adwujzpqtf60rxc3lfy`  |
+| **Bitcoin Cash (BCH)**  | `qzwvx5yvvhechuzezayg23tqfavz5hckq5whezcard`  |
+| **BCH (BEP20)**         | `0x4B86F649163E2BfCf08bF010bc5D7B8e622bE5EF`  |
+| **Polygon (POL)**       | `0x4B86F649163E2BfCf08bF010bc5D7B8e622bE5EF`  |
+| **Ethereum (ETH)**      | `0x4B86F649163E2BfCf08bF010bc5D7B8e622bE5EF`  |
+| **BNB (BSC)**           | `0x4B86F649163E2BfCf08bF010bc5D7B8e622bE5EF`  |
+| **ARRR**                | `zs122dyggl4avzxlewfx08e0dv2rpyuvv60zcsnp83fqt3xudzv5c8xr78hh9874sfd04mgz3rh8sz`  |
