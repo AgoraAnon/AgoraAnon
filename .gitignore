@@ -13,3 +13,6 @@ Thumbs.db
 .env.*
 *.pem
 *.key
+
+# Local-only AI notes (machine paths, host facts) — never pushed
+AINOTES.local.md
