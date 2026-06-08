@@ -7,3 +7,5 @@ Read `AINOTES.md` first before performing any work in this repository. It is the
 If `AINOTES.local.md` exists, read it too — it holds machine-specific context (paths, host cascade, local wallet provenance) and is gitignored, so it is local-only and never pushed.
 
 Do not duplicate project rules or configuration details in this file.
+
+**Commit identity (required):** always commit as `AgoraAnon <agoraanon@proton.me>` — at session start run `git config user.name AgoraAnon && git config user.email agoraanon@proton.me`. Never commit with a personal or hostname-derived email.

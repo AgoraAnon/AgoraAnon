@@ -4,6 +4,8 @@ This file is the cloud-safe source of truth for this repository.
 
 > **Local context:** machine paths, the host AINOTES cascade, and local wallet provenance live in `AINOTES.local.md` (gitignored, not in this repo). Read it too when working locally.
 
+> **Commit identity (required):** always commit as `AgoraAnon <agoraanon@proton.me>`. At session start run `git config user.name AgoraAnon && git config user.email agoraanon@proton.me`. Never commit with a personal or hostname-derived email.
+
 ## Project Summary
 
 - Repo: `https://github.com/AgoraAnon/AgoraAnon.git`
